@@ -1,0 +1,8 @@
+{
+  "database": "PID_AI_DB",
+  "schema": "PID",
+  "stage": "PID_IMAGE_STAGE",
+  "image_format": ".png",
+  "dpi": 300,
+  "logging_level": "INFO"
+}
